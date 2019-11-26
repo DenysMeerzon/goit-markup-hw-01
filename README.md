@@ -1,4 +1,4 @@
-# cat
+# Cat
 
 [Cat's photo](https://pixabay.com/photos/cat-animal-cat-portrait-cat-s-eyes-1508613/)
 
